@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: bde68ac810998453eae62520465231bc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Red Hat Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: abaf638a9a7394a30966abf1a98ab678, type: 3}
+  - {fileID: 12800000, guid: 24cd9056ad9e34e1abe7ffa4ff5a4ed5, type: 3}
+  - {fileID: 12800000, guid: 352937532ff9f4adcbcf98bbecb208b0, type: 3}
+  - {fileID: 12800000, guid: caf0757e76cc14e478d6f51767ef168a, type: 3}
+  - {fileID: 12800000, guid: 83237811e093f4d6086b912f16c4f316, type: 3}
+  - {fileID: 12800000, guid: 119d7ba69b94a492a963d5972b40f827, type: 3}
+  - {fileID: 12800000, guid: 448acfa6b2df847dd94b0d887a03a24a, type: 3}
+  - {fileID: 12800000, guid: 7a2c0250edfb54270a72426f97dd11dc, type: 3}
+  - {fileID: 12800000, guid: 0787f34df96e242f19f73c7e3fe724cf, type: 3}
+  - {fileID: 12800000, guid: eca8451ed9e874737aafd5cef58208cc, type: 3}
+  - {fileID: 12800000, guid: e96a848a1cb384ba7bc32c9e163e65d8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
